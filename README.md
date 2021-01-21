@@ -21,7 +21,7 @@
   
   ---
   
-  ### Languages and Tools 🎧
+  ### Languages and Tools 💻
   
   <a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
   <a src="https://jupyter.org/"><img src="https://jupyter.org/assets/main-logo.svg"/></a>
