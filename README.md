@@ -1,11 +1,14 @@
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-    <img align="right" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/nicholas-roque-313081103/">
+    <img align="right" alt="Nikko's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/mabroukimehdi/">
-    <img align="right" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href="https://twitter.com/nikkoroque">
+    <img align="right" alt="Nikko's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://www.facebook.com/mehdi.mabrouki1">
-    <img align="right" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <a href="https://www.instagram.com/nikkoroque/">
+    <img align="right" alt="Nikko's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://www.facebook.com/roquenikko/">
+    <img align="right" alt="Nikko's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
   
   ### Hey 👋, I'm Nikko
