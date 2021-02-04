@@ -34,7 +34,6 @@
   <a src="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="70px"/></a>
   <a src="https://www.tensorflow.org/"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
   <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-  <a src="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
   <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
   <a src="https://www.mysql.com/"><img src="https://img.icons8.com/ios/344/mysql-logo.png" width="50px"/></a>
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
