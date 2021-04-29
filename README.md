@@ -15,9 +15,9 @@
   
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
-  ### I'm an Operations Specialist for the West Coast during the day and a Data Science Enthusiast at night.
+  ### I'm an Operations Specialist for the West Coast during the day and a Full-Stack Wed Developer & Data Science Enthusiast at night.
   
-  - 👨‍💻 I’m currently working on my machine learning portfolio
+  - 👨‍💻 I’m currently working on my full-stack and machine learning portfolio
   - 📚 I’m currently learning nueral network and deep learning.
   - 💪🏼 Future Goals: Learn more and more stuff! Never stop creating new ideas.
   - ⚡ Fun fact: I love to play musical instruments 🎸.
