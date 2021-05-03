@@ -20,7 +20,7 @@
   - 👨‍💻 I’m currently working on my full-stack and machine learning portfolio
   - 📚 I’m currently learning nueral network and deep learning.
   - 💪🏼 Future Goals: Learn more and more stuff! Never stop creating new ideas.
-  - ⚡ Fun fact: I love to play musical instruments 🎸.
+  - ⚡ Fun fact: I love to play musical instruments 🎸 and polish coins🪙.
   
   ---
   
