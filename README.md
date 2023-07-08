@@ -15,9 +15,9 @@
   
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
-  ### I'm a Systems & WMS Manager during the day and a Full-Stack Web Developer & Data Scientist at night.
+  ### I'm a Systems & WMS Manager.
   
-  - 👨‍💻 I’m currently working on my machine learning portfolio
+  - 👨‍💻 I’m currently working on my machine learning portfolio.
   - 📚 I’m currently learning nueral network and deep learning.
   - 💪🏼 Future Goals: Learn more and more stuff! Never stop creating new ideas.
   - ⚡ Fun fact: I love to play musical instruments 🎸 and polish coins🪙.
