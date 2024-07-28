@@ -24,11 +24,9 @@
   
   ### Languages and Tools 💻
   
-  <a src="https://www.oracle.com/java/"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/></a>
+  <a src="https://www.oracle.com/java/"><img src="https://img.icons8.com/?size=50&id=13679&format=png&color=000000"/></a>
   <a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-  <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-  <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-  <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+  <a src="https://react.dev/"><img src="https://img.icons8.com/?size=50&id=asWSSTBrDlTW&format=png&color=000000"/></a>
   <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
   <a src="https://www.mysql.com/"><img src="https://img.icons8.com/ios/344/mysql-logo.png" width="50px"/></a>
   <a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
